@@ -1,2 +1,2 @@
 # Cheat-Sheet-hub
-All web development related Cheat sheets
+Comprehensive cheat sheets for web development.
